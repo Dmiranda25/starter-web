@@ -15,5 +15,7 @@ Sample website with plenty of files for demos and provide simple example
 This is a simple web project to execute
 
 ## How to contribute
+Please fork this repository and then issue Pull Request for review
 
+##Copyright
 2023 Git.Training.Git
